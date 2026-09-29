@@ -1150,6 +1150,7 @@
 { "type": "Feature", "properties": { "infrastructure_object_id": "node_598", "color": "rgba(139, 92, 246, 1)", "strokeColor": "rgba(139, 92, 246, 1)", "strokeWidth": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 2.954504677152986, 48.597881707342886 ] } },
 { "type": "Feature", "properties": { "infrastructure_object_id": "node_599", "color": "rgba(139, 92, 246, 1)", "strokeColor": "rgba(139, 92, 246, 1)", "strokeWidth": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 2.954156928871675, 48.597977900687006 ] } },
 { "type": "Feature", "properties": { "infrastructure_object_id": "node_600", "color": "rgba(139, 92, 246, 1)", "strokeColor": "rgba(139, 92, 246, 1)", "strokeWidth": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 2.944669796558153, 48.5894671439153 ] } },
-{ "type": "Feature", "properties": { "infrastructure_object_id": "node_601", "color": "rgba(139, 92, 246, 1)", "strokeColor": "rgba(139, 92, 246, 1)", "strokeWidth": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -2.115837823160203, 47.306598350335982 ] } }
+{ "type": "Feature", "properties": { "infrastructure_object_id": "node_601", "color": "rgba(139, 92, 246, 1)", "strokeColor": "rgba(139, 92, 246, 1)", "strokeWidth": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -2.115837823160203, 47.306598350335982 ] } },
+{ "type": "Feature", "properties": { "infrastructure_object_id": "node_602", "color": "rgba(139, 92, 246, 1)", "strokeColor": "rgba(139, 92, 246, 1)", "strokeWidth": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -90.054135736268094, 32.10282423188081 ] } }
 ]
 }
